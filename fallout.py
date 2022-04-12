@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 import random
-"import colorama"
-from colorama import Fore
+
 
 
 brotherhood_count = 0
