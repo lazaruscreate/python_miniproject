@@ -7,7 +7,7 @@ brotherhood_count = 0
 institute_count = 0
 i = 0
 
-questions = ["If they're sentient enough, robots should be considered humans too. (T/F): ", "'Evil' is subjective, and if your agenda is met it doesn't matter who has to be affected (T/F): ", "Technology is the greatest creation from humanity. (T/F): ", "Intelligence is the most important trait one could have. (T/F): "]
+questions = ["Ghouls, Super Mutants, and Synths should all be eradicated. (T/F): ", "If they're sentient enough, robots should be considered humans too. (T/F): ", "'Evil' is subjective, and if your agenda is met it doesn't matter who has to be affected (T/F): ", "Technology is the greatest creation from humanity. (T/F): ", "Intelligence is the most important trait one could have. (T/F): "]
 
 print("""######                                             ######                               #####  
 #     # #####    ##   # #    #     ####  #####     #     # #####    ##   #    # #    # #     # 
