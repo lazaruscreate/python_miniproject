@@ -1,4 +1,4 @@
-These 4 Mini-Projects are the culmination of 2 weeks of python training, enjoy!
+These 4 Mini-Projects are the culmination of 2 weeks of Python training, enjoy!
 -------------------------------------------------------------------------------
 If Logic Project for the Python Course 
 This will be a quiz to determine what Fallout Faction you belong to. 
